@@ -9,7 +9,7 @@ I have a passion for every art form and writing software is another means to tha
 <img width="1361" alt="screen shot 2018-05-24 at 12 31 02 pm" src="https://user-images.githubusercontent.com/33463643/40501765-6cd968b4-5f4e-11e8-9bed-eda69e4f04e2.png">
 
 ## Getting Started
-- [Portfolio](https://ralphwiley.github.io/Portfolio/)
+- [Portfolio](https://ralphwiley.github.io/ProfessionalPortfolio/)
 - [LinkedIn](https://www.linkedin.com/in/nick-keith/)
 
 ## Technologies Used
